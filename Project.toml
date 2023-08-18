@@ -13,6 +13,7 @@ ViscousFlow = "103da179-b3e4-57c1-99a4-586354eb2c5a"
 [compat]
 ImmersedLayers = "0.4"
 Plots = "1.35, 1.36, 1.37, 1.38"
+PythonPlot = "1"
 UnPack = "1"
 ViscousFlow = "0.6"
 
