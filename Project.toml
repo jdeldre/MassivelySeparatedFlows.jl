@@ -1,7 +1,7 @@
 name = "MassivelySeparatedFlows"
 uuid = "4abfb38b-4535-4480-af0d-a3e8c83bd2d8"
 authors = ["Jeff Eldredge <jdeldre@g.ucla.edu>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 ImmersedLayers = "cdc13194-334e-4e1c-bc8d-fc3a28509c85"
